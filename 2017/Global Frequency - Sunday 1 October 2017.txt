@@ -1,0 +1,36 @@
+Global Frequency - Sunday 1 October 2017 | Matt Devost
+
+It will be worth watching the accession of Crown Prince Hussein of Jordan.  With his presentation to the U.N., the Crown Prince seems to have found his own voice and offers several useful analogies to speak truth to power from the millennial generation. The concept of the world conscience being on "silent mode" is just one of the many useful themes from his remarks.  As a steadfast ally of the West and with its Hashemite legitimacy, Jordan can be a stabilizing influence in the region. 
+http://www.jordantimes.com/news/local/world%E2%80%99s-conscience-seems-be-silent%E2%80%99-mode-%E2%80%93%E2%80%93-crown-prince
+
+In other Middle East news, women can now drive in Saudi Arabia.
+https://www.nbcnews.com/news/world/saudi-arabia-end-ban-women-drivers-n804921
+
+This translation around "China’s Strategic Thinking on Building Power in Cyberspace" provides current insight into how the Chinese government is thinking about cyberspace governance and cybersecurity issues.  Reading Chinese and Russian thinking in the late 90's greatly informed my perspective over the subsequent decades.  https://www.newamerica.org/cybersecurity-initiative/blog/chinas-strategic-thinking-building-power-cyberspace/
+
+It was hard to miss this news regarding the CEO of Equifax resigning.  At what point will shareholders demand the removal of parachute clauses in executive contracts for information security breaches under their watch?  More importantly, when will we start to see INFOSEC expertise injected at the board level?  Starbucks has a board member responsible for representing the millennial generation given how important that market segment is to their business strategy.  Is it time the cyber geeks get the call to serve?  
+
+http://www.npr.org/2017/09/26/553799200/equifax-ceo-richard-smith-resigns-after-backlash-over-massive-data-breach
+
+The U.S. is not able to compete with adversaries at levels "below war" according to the Chairman of Joint Chiefs.  “We need to adapt the U.S. military — really, the entire U.S. government — to be able to compete at that level below war, where the Russians have so successfully integrated information operations, cyber, political influence, economic coercion and information operations,” Dunford said.
+
+https://federalnewsradio.com/defense-main/2017/09/dod-cant-compete-with-near-peer-adversaries-at-a-level-below-war/
+
+While the CEO of JP Morgan was dismissing (https://cointelegraph.com/news/ceo-of-jp-morgan-chase-warns-govts-will-ban-bitcoin-crypto-worth-nothing) the potential of Bitcoin, companies like Showtime and popular websites like the Pirate Bay were found to be using customers/visitors excess CPU time while visiting their sites to mine cryptocurrencies. 
+
+https://www.theverge.com/2017/9/26/16367620/showtime-cpu-cryptocurrency-monero-coinhive
+
+
+Facebook and Google announced the completion of their major undersea fiber optic cable.  The route of the cable links Virginia with Spain, a design specifically routed in a more southerly direction and according to Microsoft is "a connection that will bring the next billion users of the internet—in Africa, in the Middle East, across Southern Europe—closer to those of us who live in the United States. This is part of the infrastructure of the 21st century."  It remains to be seen whether these infrastructures owned by web companies represents the liberation or further balkanization of cyberspace.
+http://www.eweek.com/cloud/microsoft-facebook-complete-undersea-cable-link-between-u.s.-spain
+
+Software is eating the world, but do we really understand what we are asking it to do?  Great long-form journalism piece in the Atlantic.
+https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/
+
+This week also heralded the first reported instance of a civilian drone hitting a military aircraft.
+
+https://www.militarytimes.com/news/2017/09/25/for-the-first-time-a-civilian-drone-has-crashed-into-a-military-aircraft/
+
+Fact of Fiction - With only three months left in the year, it will be hard to unseat Kevin Roberts' "64 Shots: Leadership in a Crazy World" from my top book spot for the year 2017.  I bought the print version of the book and ended up highlighting the heck out of it.  Roberts provides a ton of insight compiled over his decades of experience and lessons he drew from his 64 mentors and idols.  It is an eloquent and inspirational read.
+
+http://amzn.to/2x05f7k
