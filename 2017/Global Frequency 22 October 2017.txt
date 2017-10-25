@@ -1,0 +1,34 @@
+Global Frequency 22 October 2017
+
+
+For over a decade I've been talking about the alignment of capability and intent as it relates to cyber adversaries.  This story in the New York Times is a great discussion of capability development by North Korea.  Are we setting ourselves up for surprise with any other threat actors?
+https://www.nytimes.com/2017/10/15/world/asia/north-korea-hacking-cyber-sony.html
+
+Two Americans are among the dead in a massive truck bombing in Somalia that killed nearly three hundred people.
+https://www.nbcnews.com/news/world/somalia-bomb-attack-killed-two-u-s-citizens-state-department-n811681
+
+This story came out before last week's edition of the Global Frequency, but I decided I needed to re-read it first.  This is worth taking the time to dissect.  Are social networks like Facebook transforming American democracy?
+
+https://www.theatlantic.com/technology/archive/2017/10/what-facebook-did/542502/
+
+
+The Pentagon is looking at High Frequency Trading for ideas that might improve the resiliency and security of Defense networks.
+
+https://www.wsj.com/articles/pentagon-turns-to-high-speed-traders-to-fortify-markets-against-cyberattack-1508065202?mg=prod/accounts-wsj
+
+In Sweden, real world impacts of cyber attacks.
+
+https://www.hackread.com/ddos-attacks-on-sweden-transport-agencies-delay-train-service/
+
+Joe Menn's at Reuters is one of my favorite journalists covering cyber security issues (@josephmenns on Twitter)https://twitter.com/josephmenn).  This exclusive look at a breach of Microsoft's vulnerability database is fascinating. For a while, someone had the equivalence of an invisibility cloak for cyber attack.  (Read More)
+
+http://www.reuters.com/article/us-microsoft-cyber-insight/microsoft-responded-quietly-after-detecting-secret-database-hack-in-2013-idUSKBN1CM0D0
+
+Canada's spy agency is releasing a cybersecurity tool to the public.  
+
+http://www.cbc.ca/news/technology/cse-canada-cyber-spy-malware-assemblyline-open-source-1.4361728
+
+Fact or Fiction:  I really enjoyed Adam Grant's "Originals:  How Non-Conformists Move the World" which provides several case studies of how mavericks persisted and persuaded in large organizations.  
+
+http://amzn.to/2zqJLCo
+
